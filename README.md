@@ -18,7 +18,6 @@ build a util that manages the API keys.
 Road Map:
 =====
 
-<u><b>First iteration(02.10.19 - 16.10.19):</u></b>
 
 User registration & login system.
 
@@ -27,7 +26,6 @@ User registration & login system.
 - JWT + Postgres
 - Unit tests
 
-<u><b>Second iteration(16.10.19 - 30.10.19):</u></b>
 
 Basic API key generator
 
