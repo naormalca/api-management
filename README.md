@@ -15,9 +15,8 @@ build a util that manages the API keys.
 2) ....
 
 *******
-Road Map:
-=====
-
+Current features:
+====
 
 User registration & login system.
 
