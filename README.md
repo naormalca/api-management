@@ -2,7 +2,7 @@ API Management tool
 ======================
 
 Target:
-build a util that manages the API keys.
+build an util that generates and manages API keyf for RESTful API Gateways.
 
 <b>Customer Features:</b>
 1) Restrict the access to the API.
